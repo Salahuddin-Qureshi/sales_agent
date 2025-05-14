@@ -18,7 +18,7 @@ Dependencies: Listed in requirements.txt (assumed, create if needed).
 Setup Instructions
 
 Clone the Repository:
-            git clone https://github.com/yourusername/sales-agent.git
+            git clone https://github.com/Salahuddin-Qureshi/sales_agent
             cd sales_agent
 
 
